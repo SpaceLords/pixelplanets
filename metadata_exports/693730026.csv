@@ -1,0 +1,11 @@
+Type,Pixels
+Star,100,
+
+Colorscheme,pixels,rotation,seed,star_tiles,star_fbm_octaves,star_fbm_size,starbackground_fbm_octaves,starbackground_fbm_size,starbackground_circle_amount,starbackground_size,starflare_fbm_octaves,starflare_fbm_size,starflare_circle_amount,starflare_circle_scale,storm_width,storm_dither_width,dithered,
+Terran Rivers,100,0,0.26,1,4,4.463,4,4.93,2,4.93,4,1.6,2,1,0.3,0,True,
+
+tiled,reduce_background,background_seed,background_pixels,background_dust_octaves,background_dust_size,background_nebulae_octaves,background_nebulae_size,backgroud_colorscheme,backgroud_stars_visible,backgroud_dust_visible,backgroud_nebulae_visible,backgroud_planets_visible,
+False,False,2.117518,280,8,10,3,5,Borkfest,True,True,True,True,
+
+Text
+This star is highly active and regularly sends out near-lethal solar flares. It has an incredible output of power. It contains little variety in minerals and any materials from it are hard to obtain.

@@ -1,0 +1,51 @@
+{
+	"Black Hole": [
+		"This black hole spawns all kids of violent processes and can supply it's environment with countless amounts of energy. Atlough almost no matter can be extracted from it.",
+		"A desctructive spawn of natural laws, it has a near limitless potential for energy harvesting. But because of it's strength it has sucked in all nearby minerals."
+	],
+	
+	"Star": [
+		"This star is highly active and regularly sends out near-lethal solar flares. It has an incredible output of power. It contains little variety in minerals and any materials from it are hard to obtain.",
+		"Altough mostly stable, this star still produces an enormous amount of energy and will continue to do so for several billion years. However, containg few elements, little minerals can be extracted from it."
+	],
+	
+	"Lava World": [
+		"An extremely hot planet containing mostly molten rock. It has a small amount of minerals, but it's main feature is it's potential for geothermal energy.",
+		"This planet is so hot that most materials would melt on it's surface. It's heat could allow for producing loads of energy."
+	],
+	
+	"Terran Dry": [
+		"A dry, seemingly lifeless planet. With a high temperature and no moisture this planet appears to be almost completely sand and dry rocks. Between the sands some minerals can be found.",
+		"This planet appears to be quite hot. In addition to that it contains very little water, the result being a inhospitable environment. It has good potential for energy harvesting, and contains some minerals."
+	],
+	
+	"Terran Wet": [
+		"A very rainy planet full of lush forests and jungles. It contains a high variety of life. There are good opportunities for obtaining energies, and there is a good amount of minerals.",
+		"A planet that strikes a good balance of available energy and materials. Because of this it is the perfect place for life to thrive."
+	],
+	
+	"Islands": [
+		"Large landmasses interconnected by giant oceans. Altough there is some lack of energy, there is a decent amount of minerals, still allowing life on this planet.",
+		"A salty water world with some landmasses scattered on it's surface. Life on the planet has adapted to the less than average amount of energy available."
+	],
+	
+	"No atmosphere": [
+		"A barren planet. Other than craters there are alsmot no features on it's surface. A cold place, but has a good potential for mineral mining operations.",
+		"A planet that has lost it's atmosphere a long time ago. Due to frequent asteroid impacts all kinds of minerals can be found scattered across it's surface."
+	],
+	
+	"Gas giant 1": [
+		"A swirling planet full of all kinds of different gases. Altough the planet itself might not have that much to offer, it's moons and rings contain many minerals, all easily obtained.",
+		"A superheavy gas planet, it's surface is full of motion. It's gravity has attracted some moons which obtain lots of minerals. there is not a lot of energy available to harvest the minerals."
+	],
+	
+	"Gas giant 2": [
+		"This planet seems to have nearly endless amounts of layers of gas. With it's incredible gravity it has attracted loads of moons and has many asteroid belts. All of these contain an incredible amount of minerals",
+		"A planet of enormous gravity. Due to this gravity it can support a gigantic belt of asteroids, which each asteroid containg lots of minerals. Unfortunately it receives little light from it's sun, meaning there is little energy."
+	],
+	
+	"Asteroid": [
+		"Altough not as big as a planet, the amount of minerals and materials it contains is incredible. In addition to that all of it's minerals are easily obtainable from all over it's surface. It is so far away from it's sun that there is almost no energy.",
+		"Orbiting so far away from it's sun, there is almost no light. However, this asteroid is absolutely loaded with all kinds of precious minerals making it very valuable"
+	]
+}
